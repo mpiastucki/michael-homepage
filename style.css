@@ -62,6 +62,7 @@ html {
 .content {
     grid-area: content;
     padding: 1.2rem;
+    margin: 1.2rem;
 }
 
 .footer {
